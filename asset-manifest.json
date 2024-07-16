@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TugasReact/static/css/main.ff02f4b5.css",
+    "main.js": "/TugasReact/static/js/main.e0196d7a.js",
+    "static/js/453.2e102279.chunk.js": "/TugasReact/static/js/453.2e102279.chunk.js",
+    "index.html": "/TugasReact/index.html",
+    "main.ff02f4b5.css.map": "/TugasReact/static/css/main.ff02f4b5.css.map",
+    "main.e0196d7a.js.map": "/TugasReact/static/js/main.e0196d7a.js.map",
+    "453.2e102279.chunk.js.map": "/TugasReact/static/js/453.2e102279.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.e0196d7a.js"
+  ]
+}
